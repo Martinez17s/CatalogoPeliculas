@@ -1,0 +1,6 @@
+@CatalogoPeliculas_HostAddress = http://localhost:5210
+
+GET {{CatalogoPeliculas_HostAddress}}/
+Accept: application/json
+
+###
